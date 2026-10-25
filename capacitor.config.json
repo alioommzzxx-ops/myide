@@ -1,0 +1,6 @@
+{
+  "appId": "com.alimamoori.buildyourapp",
+  "appName": "ابني تطبيقك",
+  "webDir": "www",
+  "plugins": { "CapacitorHttp": { "enabled": true } }
+}
